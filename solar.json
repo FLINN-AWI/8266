@@ -2,7 +2,7 @@
   "name": "solar",
   "about": "OTA обновление ESP8266",
   "version": "51101",
-  "notes": "Тест автоматического OTA обновления",
+  "notes": "SOLAR",
   "builds": [
     {
       "chipFamily": "ESP8266",
@@ -15,5 +15,6 @@
     }
   ]
 }
+
 
 
