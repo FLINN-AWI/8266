@@ -1,7 +1,7 @@
 {
   "name": "solar",
   "about": "OTA обновление ESP8266",
-  "version": "51102",
+  "version": "51105",
   "notes": "SOLAR",
   "builds": [
     {
@@ -15,6 +15,7 @@
     }
   ]
 }
+
 
 
 
