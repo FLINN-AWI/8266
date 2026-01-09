@@ -1,5 +1,5 @@
 {
-  "version": "60109",
+  "version": "51107",
   "builds": [
     {
       "chipFamily": "ESP8266",
@@ -9,6 +9,7 @@
     }
   ]
 }
+
 
 
 
