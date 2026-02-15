@@ -1,5 +1,6 @@
 {
-  "version": "602151230",
+  "version": "602151300",  // ваша новая версия
+  "notes": "OTA fix + voltage under load check",  // опционально, если хотите видеть в логе
   "builds": [
     {
       "chipFamily": "ESP8266",
